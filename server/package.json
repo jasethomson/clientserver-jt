@@ -1,0 +1,12 @@
+{
+  "name": "clientserverdemo",
+  "version": "1.0.0",
+  "description": "basic client server",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js",
+    "start": "node server.js"
+  },
+  "author": "jase",
+  "license": "ISC"
+}
